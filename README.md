@@ -1,1 +1,1 @@
-# Data-Analysis-project-in-Excel-with-Dashboard
+This is my initial data analytics project in Excel, which presents bike sales categorized by age group and distance per commuter, the count of bikes per age group, and the average income per purchase. These various plots come together to create an interactive dashboard that provides comprehensive insights into the dataset.
